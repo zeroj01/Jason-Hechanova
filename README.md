@@ -1,24 +1,67 @@
-# 👋 Hello, I'm Jason Hechanova!
+👋 Hello, I'm Jason Hechanova!
+🎯 Aspiring Full-Stack & Front-End Developer — passionate about building clean, efficient, and user-friendly web applications.
+📍 Based in Metro Manila, Philippines
 
-🎯 **Aspiring Full-Stack Developer** | 📍 Metro Manila, Philippines  
-💡 Passionate about building clean, efficient, and user-centric web applications.
+👨💻 About Me
+I love turning ideas into clean, functional, and user-friendly web applications. Whether it's building responsive interfaces, writing backend logic, or experimenting with new technologies — I'm always excited to learn, create, and grow as a developer.
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2ea44f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jasonhechanova)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jason.hechanova@example.com)
+✨ Always building. Always learning. Always improving.
 
----
+🚀 What I Do / What I'm Learning
+💻 Skilled in HTML, CSS, JavaScript, Python, PHP
 
-## 👨💻 About Me
+⚡ Working with React, Node.js, Express, Laravel
 
-```python
-class AboutJason:
-    def __init__(self):
-        self.passion = "Turning complex ideas into simple, functional applications"
-        self.focus = "Building the bridge between front-end design and back-end logic"
-        self.motto = "Learn. Build. Iterate. Improve."
-        
-    def current_mission(self):
-        return "Deepening my full-stack expertise and contributing to meaningful open-source projects"
-        
-me = AboutJason()
+🎨 Styling with Tailwind CSS and Bootstrap
+
+🗄️ Databases: MySQL, MongoDB
+
+📱 Learning Flutter for mobile development
+
+🔨 Currently working on:
+
+Personal Portfolio Website
+
+Task Management Application
+
+E-commerce Prototype
+
+📚 Continuously learning modern frameworks, clean architecture, and best practices
+
+❤️ Passionate about scalable systems and writing clean, maintainable code
+
+🧰 Tech Stack
+Languages & Frameworks:
+
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" title="Node.js"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" title="PHP"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40" title="Laravel"/> </p>
+Tools & Platforms:
+
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" title="Git"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" title="GitHub"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40" title="Tailwind CSS"/> </p>
+📌 Highlighted Projects
+Project	Description	Tech Stack
+Personal Portfolio	My personal developer portfolio website	HTML, CSS, JavaScript, Bootstrap
+TaskFlow Manager	Task management application with drag-and-drop functionality	React, Node.js, Express, MongoDB
+E-Commerce Prototype	Online store prototype with shopping cart functionality	PHP, Laravel, MySQL, Bootstrap
+Python Projects	Collection of Python scripts and small applications	Python, Flask, SQLite
+JavaScript Experiments	Interactive web applications and UI components	JavaScript, HTML, CSS
+💡 More projects coming soon as I continue to build and improve my skills.
+
+📊 GitHub Stats
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=jasonhechanova&show_icons=true&theme=radical&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhechanova&layout=compact&theme=radical&hide_border=true
+
+https://streak-stats.demolab.com/?user=jasonhechanova&theme=radical&hide_border=true
+
+</div>
+🌐 Connect With Me
+GitHub: github.com/jasonhechanova
+
+LinkedIn: linkedin.com/in/jasonhechanova
+
+Portfolio: jasonhechanova.dev (Update with your actual portfolio link)
+
+Email: jason@hechanova.dev (Update with your actual email)
+
+⭐ Thank you for visiting my profile! Feel free to explore my repositories and follow my development journey.
