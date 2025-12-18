@@ -47,21 +47,17 @@ I love turning ideas into clean, functional, and user-friendly web applications.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" title="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" title="Bootstrap"/>
->
+
 
 ---
 
-## 📌 Highlighted Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Personal Portfolio](https://github.com/zeroj01/portfolio)** | My personal developer portfolio website | HTML, CSS, JavaScript, Bootstrap |
-| **[TaskFlow Manager](https://github.com/zeroj01/taskflow-manager)** | Task management application with drag-and-drop functionality | React, Node.js, Express, MongoDB |
-| **[E-Commerce Prototype](https://github.com/zeroj01/ecommerce-prototype)** | Online store prototype with shopping cart functionality | PHP, Laravel, MySQL, Bootstrap |
-| **[Python Projects](https://github.com/zeroj01/python-projects)** | Collection of Python scripts and small applications | Python, Flask, SQLite |
-| **[JavaScript Experiments](https://github.com/zeroj01/js-experiments)** | Interactive web applications and UI components | JavaScript, HTML, CSS |
-
-💡 **More projects coming soon** as I continue to build and improve my skills.
+| Project | Description |
+|---------|-------------|
+| **[IT120_Activities](https://github.com/jasonhechanova/IT120_Activities)** |
+| **[IT108_Activities](https://github.com/jasonhechanova/IT108_Activities)** | 
+| **[Flutter_Widget_UIComponents](https://github.com/jasonhechanova/Flutter_Widget_UIComponents)** | 
+| **[Flutter_Projects](https://github.com/jasonhechanova/Flutter_Projects)** | Flutter & Dart experiments | 
 
 ---
 
@@ -73,7 +69,6 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroj01&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?username=zeroj01&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,4 +82,3 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 
 ⭐ **Thank you for visiting my profile!** Feel free to explore my repositories and follow my development journey.
 
-*"Only dead fish goes with the flow."* 🐟✨
