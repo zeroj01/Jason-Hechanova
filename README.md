@@ -54,10 +54,10 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 
 | Project | Description |
 |---------|-------------|
-| **[IT120_Activities](https://github.com/jasonhechanova/IT120_Activities)** |
-| **[IT108_Activities](https://github.com/jasonhechanova/IT108_Activities)** | 
-| **[Flutter_Widget_UIComponents](https://github.com/jasonhechanova/Flutter_Widget_UIComponents)** | 
-| **[Flutter_Projects](https://github.com/jasonhechanova/Flutter_Projects)** | Flutter & Dart experiments | 
+| **[IT120_Activities](https://github.com/jasonhechanova/IT120_Activities)** | Python exercises and academic assignments |
+| **[IT108_Activities](https://github.com/jasonhechanova/IT108_Activities)** | School activities and projects in different languages |
+| **[Flutter_Widget_UIComponents](https://github.com/jasonhechanova/Flutter_Widget_UIComponents)** | Flutter UI component showcase |
+| **[Flutter_Projects](https://github.com/jasonhechanova/Flutter_Projects)** | Flutter & Dart experiments | Flutter & Dart experiments |
 
 ---
 
