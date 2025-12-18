@@ -1,31 +1,31 @@
 👋 Hello, I'm Jason Hechanova!
 🎯 Aspiring Full-Stack & Front-End Developer — passionate about building clean, efficient, and user-friendly web applications.
-📍 Based in Metro Manila, Philippines
-
+📍 Based in Magallanes Agusan del Norte, Philippines
+---
 👨💻 About Me
 I love turning ideas into clean, functional, and user-friendly web applications. Whether it's building responsive interfaces, writing backend logic, or experimenting with new technologies — I'm always excited to learn, create, and grow as a developer.
 
 ✨ Always building. Always learning. Always improving.
-
+---
 🚀 What I Do / What I'm Learning
 💻 Skilled in HTML, CSS, JavaScript, Python, PHP
-
+---
 ⚡ Working with React, Node.js, Express, Laravel
-
+---
 🎨 Styling with Tailwind CSS and Bootstrap
-
+---
 🗄️ Databases: MySQL, MongoDB
-
+---
 📱 Learning Flutter for mobile development
-
+---
 🔨 Currently working on:
 
 Personal Portfolio Website
 
 Task Management Application
 
-E-commerce Prototype
-
+Farmer Registry Certification System
+---
 📚 Continuously learning modern frameworks, clean architecture, and best practices
 
 ❤️ Passionate about scalable systems and writing clean, maintainable code
@@ -45,7 +45,7 @@ E-Commerce Prototype	Online store prototype with shopping cart functionality	PHP
 Python Projects	Collection of Python scripts and small applications	Python, Flask, SQLite
 JavaScript Experiments	Interactive web applications and UI components	JavaScript, HTML, CSS
 💡 More projects coming soon as I continue to build and improve my skills.
-
+---
 📊 GitHub Stats
 <div align="center">
 https://github-readme-stats.vercel.app/api?username=jasonhechanova&show_icons=true&theme=radical&hide_border=true
@@ -53,15 +53,11 @@ https://github-readme-stats.vercel.app/api?username=jasonhechanova&show_icons=tr
 https://github-readme-stats.vercel.app/api/top-langs/?username=jasonhechanova&layout=compact&theme=radical&hide_border=true
 
 https://streak-stats.demolab.com/?user=jasonhechanova&theme=radical&hide_border=true
-
+---
 </div>
+---
 🌐 Connect With Me
-GitHub: github.com/jasonhechanova
-
-LinkedIn: linkedin.com/in/jasonhechanova
-
-Portfolio: jasonhechanova.dev (Update with your actual portfolio link)
-
-Email: jason@hechanova.dev (Update with your actual email)
-
+GitHub: github.com/zeroj01
+Email: jason.hechanova@csucc.edu.ph
+---
 ⭐ Thank you for visiting my profile! Feel free to explore my repositories and follow my development journey.
