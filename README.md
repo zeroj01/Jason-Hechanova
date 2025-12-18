@@ -73,7 +73,7 @@ I love turning ideas into clean, functional, and user-friendly web applications.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroj01&layout=compact&theme=radical&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=zeroj01&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?username=zeroj01&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
