@@ -132,7 +132,7 @@ A **Flutter-based mobile application** that uses machine learning to classify di
 ![Jason's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zeroj01&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true)
 
 ### 💻 Language Proficiency
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroj01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8&exclude_repo=Jason-Hechanova)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroj01&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8)
 
 ### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zeroj01&theme=radical&hide_border=true&background=0D1117&fire=9333EA&currStreakLabel=6366F1)
